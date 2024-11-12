@@ -1,6 +1,22 @@
 # Chopin
 ## Piano Sonata [Which one?]
 <img src="chopin.png">
+
+# Timeline
+
+|Year| Event                | Description                                    | YouTube|
+|----|----------------------|------------------------------------------------|--------|
+|1810|Birth                 |Born on March 10, 1810 in Żelazowa Wola, Poland |        |
+|1817|The first performance |In Warsaw                                       |        |
+|1826|Enter a school        |Entrance to the Warsaw Conservatory of Music    |        |
+|1831|Success               |First musical success in Paris                  |        |
+|1832|First edition         |Piano Sonata No. 1 is published                 |        |
+|1837|Disease               |Tuberculosis makes it difficult to perform music|        |
+
+## Piano Sonata in 21
+
+This piece was dierectly influenced by Beethoven's pianos, especially [Piano Sonata No. 21](beethoven-piano-sonata-no.21.md) [This is not ture]
+
 Frédéric Chopin, one of the most revered composers for the piano, is known for his unparalleled ability to express profound emotions through the instrument. His Piano Sonata No. 2 in B-flat minor is a quintessential example of his lyrical genius, blending technical sophistication with deep emotional resonance.
 
 The sonata consists of three movements, the second of which, the Funeral March, has become iconic for its solemn and tragic atmosphere. This movement is perhaps the most widely known of Chopin’s works, due to its use at his own funeral and its ability to evoke universal themes of mourning and loss. The funeral march is marked by a steady, plodding rhythm, invoking the image of a slow, deliberate procession, yet it is imbued with a sense of dignified sorrow.
